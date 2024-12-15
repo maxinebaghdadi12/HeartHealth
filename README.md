@@ -3,7 +3,7 @@
 ## **Overview**
 Heart disease is a leading cause of mortality worldwide, with early detection playing a crucial role in improving patient outcomes and optimizing healthcare resources. This project leverages machine learning (ML) to predict heart disease risk using behavioral, demographic, and clinical health indicators from the Behavioral Risk Factor Surveillance System (BRFSS) dataset.
 
-The goal of this project is to develop and evaluate machine learning models to predict heart disease risk, prioritizing recall over precision using the F-beta score (\( \beta > 1\)) as the primary evaluation metric. This ensures models are tuned to minimize false negatives, reducing the likelihood of missing high-risk patients.
+The goal of this project is to develop and evaluate machine learning models to predict heart disease risk, prioritizing recall over precision using the F-beta score β = 5 as the primary evaluation metric. This ensures models are tuned to minimize false negatives, reducing the likelihood of missing high-risk patients.
 
 ---
 
